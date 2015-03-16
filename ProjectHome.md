@@ -1,0 +1,1 @@
+Some sample code I am using for a Chicago ruby user group meeting
